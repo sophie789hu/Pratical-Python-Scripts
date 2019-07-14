@@ -1,4 +1,4 @@
-# Pratical-Python-Scripts
+# Pratical-Regex
 
 This project aims to gather various kind of Python scripts.
 The piece of code may be useful: for data cleaning, data analysis, machine learning project and data visualization.
